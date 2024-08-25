@@ -14,7 +14,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": "#",
+      "value": "✓",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -24,7 +24,7 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "Sad-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -57,18 +57,18 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ05rYlR6ZnhTYy9nTDR4SzVuQTRoeUMvZXkwNlZOVmNPTy90bGIwbjIxWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTlV2RTdvT1lSTHd1d25LZDJpYzFIWVZYZ1NJd0xvankyb2NBK1FWamxHOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTRllFaE5taWxYaUJjL0FpemRPOVdBUlZaVEFaMU9pUGl2WGxZNEpJQjNnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvbiswRXIzUzBaTTRyZWlTdEdlT0xaL1N5T2tpclVvSW1XR0lSWDhQb0Q4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklJNS91L21aMlJCMzJSd20wY2FLUnNrbEJjeWdhcHRpT243VWY4K3dqa0E9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdUVkhxTEFwU25VS2JVemtCTmQ1c1Vwc2NOYkJFNGxJTlV4aWtVc2RkRGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUJON3lQK1h3Rk1YUDRlc0ZSbjFWajI3Q2U4T1QzSFJxcWp2RzBvZGNtcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV3l2UnE5TWxISzZmdXhIWm11RU1BSEE5eHNlaEM4dUhVbWRaRGNwRGZHUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImpDQVRseW5YSGdVTFIyU3AxeUc3eGVUM2cwbTBzZTBhOUNjNndYelVhVEd0UnlIOURucmcwS1RFRkY5SUszeFhHYk9Jb2RqRlhrSmEyWWNkU0VycURRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MzMsImFkdlNlY3JldEtleSI6IkdtSkxDZkFZbDhGRlYycW9xRkVlVlRtV2N5N1JrK0pOK0lQaHM3YXZaR289IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjoxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiIxaEhHRkxBRVRQdVVKemJ0LVFYVTFRIiwicGhvbmVJZCI6ImY0NjhhNzg5LWZiZjEtNDA5Mi05ZmNiLWUyZGU5MGNlODY1ZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLdU5KM1V2ZkI5ZzJZeFkvdCthcDhDT3RSNXM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiL1MyNWM5SGE1SEtlNlRQK3VxdjRWZm5uNVNnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlZXVlFFVktYIiwibWUiOnsiaWQiOiIyMjU3OTA3MjMyMzo1QHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMalRoY1FHRU4ra3FyWUdHQVVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJTeXhWMkt0Uklmako1V2VXcGpJekV1aGRIaDdTWVJTa2tNcXhsQkZTeFQ0PSIsImFjY291bnRTaWduYXR1cmUiOiJxdGJHdC9QVjdId2xrUnc4SFJWV1RLaXZaZ2V4SFRxR2JLWEZ1czlQaGtBV3FucVREb05lcy84TC9ZVFQyOFdYNFZ2Y0RtMm4yQXlOVlVTRWtCNzBBZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiYVdBbTdTZEVnMHI0Mm9kL241ZnY0Ulp4Z20xeHQ4dTJGWThsVmNSZkFDNGhQSWh6VlZmSXB1V1FjS1NUMEJrUVdQZU9TV3lDd0R1OVVrUVM3S3NwQ1E9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMjU3OTA3MjMyMzo1QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlVzc1ZkaXJVU0g0eWVWbmxxWXlNeExvWFI0ZTBtRVVwSkRLc1pRUlVzVSsifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQifQ==",
       "required": true
     },
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "✰𝐒𝐚𝐝-𝐁𝐨𝐲✰"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "2250779072323"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
